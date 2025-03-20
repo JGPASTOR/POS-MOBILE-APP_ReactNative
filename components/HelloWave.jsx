@@ -37,4 +37,4 @@ const styles = StyleSheet.create({
     lineHeight: 32,
     marginTop: -6,
   },
-});
+}); 
