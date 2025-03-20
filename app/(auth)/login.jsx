@@ -177,13 +177,13 @@ export default function LoginScreen() {
           </Text>
         </TouchableOpacity>
 
-        {/* <View style={styles.helpText}>
+        <View style={styles.helpText}>
           <Text style={styles.helpTextContent}>
             Login Credentials:{'\n'}
             Email: pastorjester@pos.com{'\n'}
             Password: cashier2025
           </Text>
-        </View> */}
+        </View>
       </View>
       <Toast config={toastConfig} />
     </View>
